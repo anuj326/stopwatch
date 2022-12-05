@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: dimgray;
+}
+
+
+#stopwatch{
+    font-size: 200px;
+    background-color: blue;
+    border-radius: 10px;
+    
+}
+
+.btn-lg{
+    font-size: 50px;
+    margin: 10px;
+}
